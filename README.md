@@ -1,5 +1,5 @@
 # GCLSC-Network
-Designing a GCLSC Network for the Tire Industry under Uncertainty
+#### Designing a GCLSC Network for the Tire Industry under Uncertainty
 This project introduces a bi-objective mixed-integer linear programming model for optimizing a green closed-loop supply chain in the tire remanufacturing industry, emphasizing environmental impacts and performance under uncertainty. The model focuses on maximizing total profits and minimizing environmental impacts across various supply chain nodes, including customer and collection centers, recycling, manufacturing/remanufacturing plants, and distribution centers. It integrates the augmented ε‑constraint method and the Grasshopper Optimization Algorithm (GOA) to derive optimal and Pareto solutions for medium and large-scale problems. This work includes comprehensive numerical experiments and sensitivity analysis, offering valuable insights for future research.
 
 ## Installation Instructions:
