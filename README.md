@@ -20,6 +20,5 @@ Please familiarize yourself with the model and its objectives from the research 
 
 ### Acknowledgments:
 This project is based on research published in the Journal of Industrial and Systems Engineering. Full details can be found in the paper linked [here]([url](https://www.jise.ir/article_136455_f58d8a5e5ab96b309f422042c70cd112.pdf)).
-
 ### Contact Information
 For further inquiries or collaborations, please contact t.shahedi@uu.nl.
